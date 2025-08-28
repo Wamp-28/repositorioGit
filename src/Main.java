@@ -13,6 +13,36 @@ public class Main {
         System.out.println("git log - ver todos los commit");
         System.out.println("git clone - clonar proyecto");
         System.out.println("git fetch - ver ramas remotas");
+        System.out.println("git switch - para crear y posicionarme sobre la rama");    System.out.println("git commit -m - guardar cambios local");
+        System.out.println("git config -- list - listar configuracion");
+        System.out.println("git log - ver todos los commit");
+        System.out.println("git clone - clonar proyecto");
+        System.out.println("git fetch - ver ramas remotas");
+        System.out.println("git switch - para crear y posicionarme sobre la rama");    System.out.println("git commit -m - guardar cambios local");
+        System.out.println("git config -- list - listar configuracion");
+        System.out.println("git log - ver todos los commit");
+        System.out.println("git clone - clonar proyecto");
+        System.out.println("git fetch - ver ramas remotas");
+        System.out.println("git switch - para crear y posicionarme sobre la rama");    System.out.println("git commit -m - guardar cambios local");
+        System.out.println("git config -- list - listar configuracion");
+        System.out.println("git log - ver todos los commit");
+        System.out.println("git clone - clonar proyecto");
+        System.out.println("git fetch - ver ramas remotas");
+        System.out.println("git switch - para crear y posicionarme sobre la rama");    System.out.println("git commit -m - guardar cambios local");
+        System.out.println("git config -- list - listar configuracion");
+        System.out.println("git log - ver todos los commit");
+        System.out.println("git clone - clonar proyecto");
+        System.out.println("git fetch - ver ramas remotas");
+        System.out.println("git switch - para crear y posicionarme sobre la rama");    System.out.println("git commit -m - guardar cambios local");
+        System.out.println("git config -- list - listar configuracion");
+        System.out.println("git log - ver todos los commit");
+        System.out.println("git clone - clonar proyecto");
+        System.out.println("git fetch - ver ramas remotas");
+        System.out.println("git switch - para crear y posicionarme sobre la rama");    System.out.println("git commit -m - guardar cambios local");
+        System.out.println("git config -- list - listar configuracion");
+        System.out.println("git log - ver todos los commit");
+        System.out.println("git clone - clonar proyecto");
+        System.out.println("git fetch - ver ramas remotas");
         System.out.println("git switch - para crear y posicionarme sobre la rama");
 
 
